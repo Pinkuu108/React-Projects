@@ -46,7 +46,7 @@ I created these projects to practice and strengthen my React development skills 
 
 Clone the repository
 ```
-git clone https://github.com/YOUR-USERNAME/React-Projects.git
+git clone https://github.com/React-Projects.git
 ```
 Open project folder
 ```
