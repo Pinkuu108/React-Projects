@@ -86,7 +86,7 @@ These projects helped me learn:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/React-Projects.git
+git clone https://github.com/Pinkuu108/React-Projects.git
 ```
 
 ### 2️⃣ Open the project folder
